@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1065924503874",
+    "project_id": "projeto-bombeiros-a2d51",
+    "storage_bucket": "projeto-bombeiros-a2d51.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065924503874:android:33c125376a13868ea8c0db",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdaELcCHImL0EycSI8LYIUzIuL4RnWaxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
